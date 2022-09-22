@@ -72,10 +72,10 @@ export default function About() {
                 I continued to stay fascinated with systemic disruption, dabbling in school once more to attend (and lecture for) classes in the ethical hacking space.
               </p>
               <p>
-                Eventually, I realized I could focus my energy towards teaching, so I've spent the last decade in various instructional roles.
+                Eventually, I realized I could focus my energy towards teaching, so I&apos;ve spent the last decade in various instructional roles.
               </p>
               <p>
-                Since 2020, I've enjoyed leading the instruction of hundreds of tech-aspiring students (from a multitude of diverse backgrounds) and guiding them through the fundamentals of full-stack engineering.
+                Since 2020, I&apos;ve enjoyed leading the instruction of hundreds of tech-aspiring students (from a multitude of diverse backgrounds) and guiding them through the fundamentals of full-stack engineering.
               </p>
               <p>
                 I currently make a portion of my money by doing full-stack engineering work (and not <em>deliberately</em> breaking anything, sadly).

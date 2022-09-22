@@ -279,8 +279,8 @@ export default function Home({ articles }) {
             Engineer and author.
           </h1>
           <p className="mt-6 text-base flex flex-col text-zinc-600 dark:text-zinc-400">
-            <span className="font-semibold">I’m Jesse, a creative designer and engineer based in California.</span>
-            <span className="mt-2">I'm currently building an adventure module for your favourite roleplaying game (featuring characters below), as well as a series of useful NPM packages for engineers everywhere.</span>
+            <span className="font-semibold">I&apos;m Jesse, a creative designer and engineer based in California.</span>
+            <span className="mt-2">I&apos;m currently building an adventure module for your favourite roleplaying game (featuring characters below), as well as a series of useful NPM packages for engineers everywhere.</span>
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
