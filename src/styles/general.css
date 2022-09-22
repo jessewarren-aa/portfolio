@@ -1,0 +1,3 @@
+.svgwhite {
+  filter: invert(100%) sepia(0%) saturate(6265%) hue-rotate(145deg) brightness(129%) contrast(87%);
+}
